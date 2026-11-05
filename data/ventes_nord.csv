@@ -1,0 +1,62 @@
+id_vente,date_vente,produit,categorie,quantite,prix_unitaire,ville,vendeur
+1150,2026-01-07,Clé USB 64 Go,Stockage,2,14.90,Lille,E. Bonnet
+1139,2026-01-10,Souris sans fil,Périphériques,1,34.50,Lyon,D. Sanchez
+1011,2026-01-13,Clavier mécanique,Périphériques,5,89.90,Rennes,C. Mercier
+1129,2026-01-14,Écran 27 pouces,Écrans,2,249.00,Nantes,E. Bonnet
+1040,2026-01-19,Station d'accueil,Périphériques,1,179.00,Lyon,E. Bonnet
+1034,2026-01-21,ÉCRAN 27 POUCES,Écrans,1,249.00,Nantes,A. Fournier
+1058,2026-01-23,Souris sans fil,Périphériques,5,34.50,Lyon,A. Fournier
+1161,2026-01-24,Disque SSD 1 To,Stockage,1,104.90,Lille,C. Mercier
+1071,2026-01-29,Clavier mécanique,Périphériques,1,89.90,Rennes,C. Mercier
+1136,2026-01-29,Clavier mécanique,Périphériques,4,89.90,Marseille,A. Fournier
+1002,2026-01-30,Écran 27 pouces,Écrans,2,249.00,Rennes,D. Sanchez
+1094,2026-02-01,Casque audio,Audio,1,129.00,Strasbourg,E. Bonnet
+1154,2026-02-03,webcam hd,Périphériques,1,59.90,Lyon,E. Bonnet
+1099,2026-02-04,Station d'accueil,Périphériques,2,179.00,Strasbourg,D. Sanchez
+1065,2026-02-10,Écran 24 pouces,Écrans,4,159.00,Nantes,D. Sanchez
+1160,2026-02-14,Écran 24 pouces,Écrans,2,159.00,Lille,D. Sanchez
+1107,2026-02-16,écran 27 pouces,Écrans,1,249.00,Lyon,C. Mercier
+1032,2026-02-17,disque ssd 1 to,Stockage,1,104.90,Strasbourg,A. Fournier
+1050,2026-02-18,Support d'écran,Accessoires,1,39.90,Nantes,A. Fournier
+1073,2026-02-21,Clavier mécanique,Périphériques,5,89.90,Bordeaux,C. Mercier
+1091,2026-02-24,Webcam HD,Périphériques,2,59.90,Marseille,D. Sanchez
+1152,2026-03-01,WEBCAM HD,Périphériques,3,59.90,Bordeaux,E. Bonnet
+1062,2026-03-02,Clé USB 64 Go,Stockage,4,14.90,Strasbourg,B. Leclerc
+1035,2026-03-06,SOURIS SANS FIL,Périphériques,3,34.50,Lyon,C. Mercier
+1106,2026-03-08,Clavier mécanique,Périphériques,3,89.90,Marseille,A. Fournier
+1079,2026-03-11,Casque audio,Audio,2,129.00,Toulouse,A. Fournier
+1012,2026-03-12,Webcam HD,Périphériques,1,59.90,Rennes,C. Mercier
+1064,2026-03-14,Écran 24 pouces,Écrans,2,159.00,Marseille,B. Leclerc
+1124,2026-03-26,Écran 27 pouces,Écrans,2,249.00,Lille,D. Sanchez
+1000,2026-03-27,Souris sans fil,Périphériques,4,34.50,Lyon,E. Bonnet
+1115,2026-03-28,Support d'écran,Accessoires,4,39.90,,A. Fournier
+1149,2026-03-29,Enceinte Bluetooth,Audio,3,74.50,Strasbourg,C. Mercier
+1005,2026-04-09,Tapis de souris XL,Accessoires,5,19.90,Toulouse,A. Fournier
+1057,2026-04-09,Souris sans fil,Périphériques,3,34.50,Bordeaux,D. Sanchez
+1112,2026-04-13,Disque SSD 1 To,Stockage,1,104.90,Marseille,E. Bonnet
+1143,2026-04-20,Souris sans fil,Périphériques,2,34.50,Nantes,B. Leclerc
+1061,2026-04-25,Écran 24 pouces,Écrans,1,159.00,Rennes,B. Leclerc
+1159,2026-04-25,Casque audio,Audio,1,129.00,Rennes,B. Leclerc
+1086,2026-05-04,Souris sans fil,Périphériques,1,34.50,Strasbourg,D. Sanchez
+1108,2026-05-04,Tapis de souris XL,Accessoires,2,19.90,Lille,D. Sanchez
+1014,2026-05-07,Tapis de souris XL,Accessoires,2,19.90,Rennes,D. Sanchez
+1055,2026-05-07,Support d'écran,Accessoires,1,39.90,Marseille,B. Leclerc
+1025,2026-05-20,Support d'écran,Accessoires,1,39.90,Marseille,D. Sanchez
+1084,2026-05-23,Écran 27 pouces,Écrans,1,249.00,Marseille,B. Leclerc
+1024,2026-05-24,support d'écran,Accessoires,1,39.90,Bordeaux,B. Leclerc
+1141,2026-05-24,Tapis de souris XL,Accessoires,1,19.90,Strasbourg,B. Leclerc
+1066,2026-05-25,Clavier mécanique,Périphériques,5,89.90,Strasbourg,E. Bonnet
+1004,2026-05-27,Souris sans fil,Périphériques,2,34.50,Marseille,A. Fournier
+1068,2026-05-28,Écran 27 pouces,Écrans,5,249.00,Toulouse,D. Sanchez
+1132,2026-06-03,Station d'accueil,Périphériques,2,179.00,Lille,B. Leclerc
+1122,2026-06-04,Clé USB 64 Go,Stockage,1,14.90,Strasbourg,D. Sanchez
+1144,2026-06-08,Tapis de souris XL,Accessoires,2,19.90,Nantes,E. Bonnet
+1126,2026-06-19,Écran 24 pouces,Écrans,4,159.00,Nantes,C. Mercier
+1043,2026-06-23,Clavier mécanique,Périphériques,1,89.90,Toulouse,B. Leclerc
+1089,2026-06-23,Webcam HD,Périphériques,4,59.90,Marseille,D. Sanchez
+1120,2026-06-23,station d'accueil,Périphériques,2,179.00,Lille,B. Leclerc
+1120,2026-06-23,station d'accueil,Périphériques,2,179.00,Lille,B. Leclerc
+1083,2026-06-24,Clavier mécanique,Périphériques,1,89.90,Nantes,B. Leclerc
+1117,2026-06-28,Tapis de souris XL,Accessoires,2,19.90,Bordeaux,C. Mercier
+1164,2026-06-28,Écran 27 pouces,Écrans,2,249.00,Rennes,B. Leclerc
+1009,2026-07-03,Support d'écran,Accessoires,2,39.90,Nantes,E. Bonnet
