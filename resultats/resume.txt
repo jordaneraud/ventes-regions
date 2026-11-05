@@ -1,0 +1,18 @@
+=== RÉSUMÉ DES VENTES ===
+
+Nombre de ventes : 169
+Chiffre d'affaires total : 37110.60 €
+
+=== CA PAR RÉGION ===
+region
+nord     12771.0
+ouest    13803.6
+sud      10536.0
+
+=== TOP 5 DES PRODUITS ===
+produit
+Station d'accueil    6802.0
+Écran 27 pouces      6723.0
+Écran 24 pouces      4929.0
+Clavier mécanique    4315.2
+Casque audio         2709.0

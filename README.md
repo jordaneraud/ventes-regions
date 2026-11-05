@@ -1,35 +1,33 @@
-﻿# Analyse des ventes — Atelier S08
+﻿# Analyse des ventes — Atelier S08, Partie B
 
 ## Objectif
-Fusionner et nettoyer les ventes de trois régions.
+Consolider les ventes des régions Nord, Sud et Ouest.
 
-## Données
-- ventes_nord.csv
-- ventes_sud.csv
-- ventes_ouest.csv
+## Organisation
+- data/brut/ : fichiers CSV d'origine
+- data/propre/ : données consolidées
+- src/consolider.py : fusion et nettoyage
+- src/resume.py : rapport des ventes
+- resultats/resume.txt : résumé final
 
 ## Traitements
-- Fusion des trois fichiers CSV
-- Suppression de 3 doublons exacts
-- Conversion des dates et des valeurs numériques
-- Calcul du montant : quantité × prix unitaire
-- Conservation des villes manquantes
+- Fusion des trois régions
+- Suppression de 2 doublons exacts
+- Ajout de la colonne region
+- Calcul du chiffre_affaires
+- Conservation des valeurs manquantes
 
 ## Résultats
 - 171 lignes initiales
-- 168 ventes conservées
-- Chiffre d'affaires : 36 723,60 €
-- 2 villes manquantes
+- 169 ventes conservées
+- 37 110,60 € de chiffre d'affaires
 
 ## Exécution
-Installer les dépendances :
-python -m pip install -r requirements.txt
+1. Installer les dépendances :
+   python -m pip install -r requirements.txt
 
-Lancer les scripts :
-python src/inspecter.py
-python src/nettoyer.py
-python src/rapport.py
+2. Consolider :
+   python src/consolider.py
 
-## Fichiers produits
-- resultats/ventes_nettoyees.csv
-- resultats/rapport_categories.csv
+3. Générer le résumé :
+   python src/resume.py
