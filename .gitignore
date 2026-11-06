@@ -1,3 +1,11 @@
 ﻿.venv/
 __pycache__/
 .vscode/
+
+# Livrables locaux et secrets
+/livrables-s08/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
