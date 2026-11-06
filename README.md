@@ -36,3 +36,15 @@ Ces deux scripts régénèrent respectivement les données consolidées et le r�
 
 Python, pandas, NumPy et Git. Les autres dépendances Python figurent dans requirements.txt.
 Les libellés de produits ne sont pas uniformisés ; les regroupements distinguent donc les variantes de casse. Ce dépôt constitue un exercice de formation.
+
+## Vérification des résultats
+
+Après exécution du parcours principal, le résumé doit présenter 169 ventes et un chiffre d'affaires total de 37 110,60 €.
+
+| Région | Chiffre d'affaires |
+| --- | ---: |
+| Nord | 12 771,00 € |
+| Ouest | 13 803,60 € |
+| Sud | 10 536,00 € |
+
+Comparer ces valeurs avec `resultats/resume.txt` après régénération. Les CSV bruts restent la référence pour contrôler le traitement.
